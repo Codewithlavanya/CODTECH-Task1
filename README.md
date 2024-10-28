@@ -16,6 +16,9 @@
 
 ## OVERVIEW OF THE PROJECT
 
+![Screenshot 2024-10-24 215317](https://github.com/user-attachments/assets/86d2b75c-b576-48bf-a408-1915e92ce756)
+
+
 ### PROJECT: To-Do-List
 
 
