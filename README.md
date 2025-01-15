@@ -1,15 +1,5 @@
-# CODTECH-Task1
-*NAME* :  Lavanya BM
-
-*COMPANY* : CODTECH IT SOLUTIONS
-
-*ID* :  CT08DS8784
-
-*DOMAIN* : Web Development
-
-*DURATION* : 5 Oct 2024 to 4 Nov 2024
-
-*MENTOR* : 
+# TO_DO_LIST
+ 
 
 
 
